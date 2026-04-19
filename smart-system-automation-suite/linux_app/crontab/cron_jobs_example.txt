@@ -1,0 +1,6 @@
+# Replace <PROJECT_ROOT> with your absolute Linux path, then run `crontab -e` and paste these lines.
+# SMART_SUITE: Smart System Automation & Monitoring Suite
+*/15 * * * * <PROJECT_ROOT>/linux_app/scripts/monitor_system.sh >> <PROJECT_ROOT>/linux_app/logs/cron_monitor.log 2>&1
+0 */6 * * * <PROJECT_ROOT>/linux_app/scripts/file_management.sh >> <PROJECT_ROOT>/linux_app/logs/cron_file_management.log 2>&1
+30 2 * * * <PROJECT_ROOT>/linux_app/scripts/maintenance.sh >> <PROJECT_ROOT>/linux_app/logs/cron_maintenance.log 2>&1
+45 23 * * * <PROJECT_ROOT>/linux_app/scripts/generate_report.sh >> <PROJECT_ROOT>/linux_app/logs/cron_report.log 2>&1

@@ -1,0 +1,4 @@
+label,path,description,archive,size,timestamp
+documents,/home/<username>/Documents,Academic notes,<PROJECT_ROOT>/linux_app/backups/documents_2026-04-16_06-05-02.tar.gz,24M,2026-04-16 06:05:02
+downloads,/home/<username>/Downloads,Reference files,<PROJECT_ROOT>/linux_app/backups/downloads_2026-04-16_06-05-06.tar.gz,123M,2026-04-16 06:05:06
+

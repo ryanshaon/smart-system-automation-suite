@@ -1,0 +1,14 @@
+=== Smart System Monitoring Snapshot ===
+Timestamp: 2026-04-16 06:00:05
+User: <username>
+Hostname: ubuntu-dev
+Kernel: Linux 6.8.0-31-generic x86_64 GNU/Linux
+
+---- Memory Usage ----
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.2Gi       6.8Gi       452Mi       4.0Gi        10Gi
+
+---- Disk Utilization ----
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2       220G   85G  124G  41% /
+
