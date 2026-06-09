@@ -4,12 +4,12 @@ A Linux and Python automation project built to make common system tasks easier, 
 
 ## Overview
 
-This repository contains both required applications for `Assignment_2_Scripting.pdf`:
+This repository contains a practical automation suite with two main applications:
 
 - `linux_app/` - Linux automation with monitoring, backups, scheduling, maintenance, and report generation.
 - `python_app/` - Menu-driven Python automation with file operations, logging, analytics, and error handling.
 
-The goal of this project is to show how basic scripting can be used to automate repeated tasks, reduce manual work, and create useful reports from system or file data.
+The goal of this project is to show how scripting can automate repeated tasks, reduce manual work, and create useful reports from system or file data.
 
 ## Features
 
@@ -44,7 +44,7 @@ The goal of this project is to show how basic scripting can be used to automate 
 smart-system-automation-suite/
 ├── linux_app/      # Linux automation scripts
 ├── python_app/     # Python menu-driven automation app
-└── docs/           # Assignment report and documentation
+└── docs/           # Documentation and reports
 ```
 
 ## How to Run
@@ -75,14 +75,6 @@ Through this project, I practiced:
 - Adding logs and error handling
 - Creating reports from script output
 - Using Linux commands in a practical workflow
-
-## Documentation
-
-Detailed assignment mapping and execution instructions are available in:
-
-```text
-docs/assignment_report.md
-```
 
 ## Future Improvements
 
